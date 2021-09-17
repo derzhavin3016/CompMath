@@ -1,2 +1,2 @@
-# Calc_math
-Calculation mathematics
+# CompMath
+Computational Mathematics
