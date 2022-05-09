@@ -5,7 +5,7 @@
 
 ## Heatmap of solution
 
-![img](https://github.com/derzhavin3016/CompMath/blob/master/Lab10/heatmap.gif)
+![img](https://github.com/derzhavin3016/CompMath/blob/master/Lab10/heat_map.gif)
 
 ## Evoultion in time
 
